@@ -1,4 +1,12 @@
 # tinder-bot
+
+## Description
+Python Bot to automate tinder and find match
+
+### Dependencies
+
+All the required dependencies are mention in requirements.txt file
+
 ### Installing
 --> Clone the repository using the command below :
 ```bash
